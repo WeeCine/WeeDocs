@@ -1,0 +1,4 @@
+site_name: WeeDocs
+site_url: http://docs.weecine.com
+theme:
+  name: material
